@@ -4,7 +4,7 @@ git should be already installed on your Mac, if not you can download and install
 
 Once you install it or if it's already installed, run the following command:
 
-$ git --version
+`$ git --version`
 
 The output should be something similar to this:
 
