@@ -10,20 +10,20 @@ The output should be something similar to this:
 
 git version 2.14.3 (Apple Git-98)
 
-git works over ssh, so you will need to setup and ssh key to be able to use it.
+git works over ssh, so you will need to setup an ssh key pair (private and public) to be able to use it.
 
 Let's check if you already have a ssh key setup, run:
 
-$ ls -al ~/.ssh/id_rsa*
+`$ ls -al ~/.ssh/id_rsa*`
 
 The output should have at least the two following files:
 
-.ssh/id_rsa
-.ssh/id_rsa.pub
+`.ssh/id_rsa
+.ssh/id_rsa.pub`
 
 If you don't have the two files above, let's generate them:
 
-$ ssh-keygen
+`$ ssh-keygen`
 
 Hit Enter three times and go with the defaults.
 
@@ -60,7 +60,7 @@ TODO
 
 7. in your shell, run:
 
-$ cat ~/.ssh/id_rsa.pub
+`$ cat ~/.ssh/id_rsa.pub`
 
 8. Copy and Paste the output into the Key field in github
 
