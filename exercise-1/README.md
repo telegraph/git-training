@@ -32,4 +32,21 @@
     - ` $ git commit --message "My first commit of the README file"`
 5. Push your changes to Github
     - ` $ git push `
-6. Go to github and see if your README is there
+6. Go to github in your browser and see if your README is there
+
+## Ask a friend to push some changes to your repo.
+
+1. Ask them to clone your repo
+   - ` $ git clone PASTE_THE_URL_HERE `
+2. Change directory to inside the repository
+   - ` $ cd NAME_OF_THE_REPO_HERE `
+3. Ask them to change your file, and add a new line and perhaps delete or edit the line you added too
+4. Ask them to commit this version of the README file to git
+    - ` $ git commit --message "My commit to YOUR_NAME_HERE's README file"`
+5. Ask them to push their changes to Github
+    - ` $ git push `
+6. Go to github and in your browser and view the changes they have made. If you click on the commit, you will be able to see the lines they added in green and any lines they changed or deleted in red. Changing the text in a line will be shown as a deletion of the line, with the new text as a new line in green.
+
+Congratulations! You have successfully made a repository in GitHub, added a file, committed your changes locally and pushed them to GitHub :)
+
+Lets move on to exercise two where we'll explore some of the other features of Git and how to use it
