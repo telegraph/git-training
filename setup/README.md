@@ -1,6 +1,12 @@
-# MacOS
+# Windows/Chromebook
 
-git should be already installed on your Mac, if not you can download and install from here: https://git-scm.com/download/mac
+Login to your AWS Cloud9 Environment (Credentials for this will be emailed/hangouted/slacked to you)
+
+In the panel at the bottom of the screen, you should have a command line prompt
+
+# SSH key setup, for MacOS and also Cloud9 Environments too
+
+git should be already installed on your Mac and it is installed by default on Cloud 9 too, if not you can download and install from here: https://git-scm.com/download/mac
 
 Once you install it or if it's already installed, run the following command:
 
@@ -32,10 +38,6 @@ if you want to read more about SSH and keys, try this:
 - https://wiki.archlinux.org/index.php/SSH_keys
 - https://help.ubuntu.com/community/SSH/OpenSSH/Keys
 )
-
-# Windows
-
-TODO
 
 # setting up GitHub for both MacOs and Windows
 
