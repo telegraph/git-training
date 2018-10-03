@@ -47,7 +47,7 @@ if you want to read more about SSH and keys, try this:
 
 2. Click Sign Up or Login
 - choose a username
-- enter you telegraph email address for example
+- enter your telegraph email address for example
 - choose a password
 
 - if you already have a github account -> Login
